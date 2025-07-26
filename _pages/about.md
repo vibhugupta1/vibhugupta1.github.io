@@ -1,8 +1,13 @@
 ---
+title: "About Me"
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Hi, I’m Vibhu 👋
+Hi! I’m Vibhu 👋
 
-I’m building a startup in public and documenting everything I learn — wins, failures, and lessons. This blog is part of my journey to build, learn, and share.
+I’m building a startup in public — learning by doing and sharing what I learn.
+
+I use this site to blog my progress, document experiments, and connect with people curious about entrepreneurship, tech, and self-growth.
+
